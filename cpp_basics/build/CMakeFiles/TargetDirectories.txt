@@ -1,0 +1,3 @@
+/Users/pietro/cpp_projects/cpp_basics/build/CMakeFiles/project_basics.dir
+/Users/pietro/cpp_projects/cpp_basics/build/CMakeFiles/edit_cache.dir
+/Users/pietro/cpp_projects/cpp_basics/build/CMakeFiles/rebuild_cache.dir

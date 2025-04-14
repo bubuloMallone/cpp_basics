@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "EDMain.C": "cpp",
+        "EDAux.C": "cpp",
+        "EDInit.C": "cpp",
+        "parameter_value.C": "cpp",
+        "parameters.C": "cpp",
+        "parser.C": "cpp",
+        "LaggedFib.C": "cpp",
+        "utils.C": "cpp"
+    }
+}
